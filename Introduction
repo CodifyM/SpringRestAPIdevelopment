@@ -1,0 +1,10 @@
+# SpringRestAPIdevelopment
+How to make REST API using springboot
+
+
+We will create a rest api with the help of spring boot.
+This rest api will basically handle the client's request at different https address.
+We will use POSTMAN for throughing the request i.e. POSTMAN will work as a client.
+And, then the server which we will develop via springboot will handle those requests.
+
+Technically via REST API we will handle client request. And, REST API itself is built with the help of springboot.
